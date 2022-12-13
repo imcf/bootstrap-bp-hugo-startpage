@@ -33,3 +33,9 @@ h1 {
 .cursorPointer:hover {
     cursor: pointer;
 }
+
+a {
+    color: #fbfbfbe8;
+    text-decoration: none;
+    background-color: transparent;
+}
