@@ -18,10 +18,13 @@ h1 {
 }
 
 .card {
-    opacity: 0.8;
+    background-color: rgba(50, 50, 50, 0.85);
+    border: 5px solid rgba(255, 255, 255, 0.25);
 }
+
 .card:hover {
-    opacity: 1;
+    background-color: rgba(78, 78, 78, 0.85);
+    border: 5px solid rgba(255, 255, 255, 0.45);
 }
 
 .cursorPointer:hover {
